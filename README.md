@@ -6,7 +6,7 @@ This project allows you to make a Speech Recognition System using Python. Conver
 Installation:
 Open the terminal and type:
 
-- pip install pyttsx3: pyttsx3 is a text-to-speech conversion library in Python. It converts easily an entered text into speech.
+- /pip install pyttsx3/i : pyttsx3 is a text-to-speech conversion library in Python. It converts easily an entered text into speech.
 
 - pip install PyAudio: In case It doesn't work, lower down your Python version to Python 3
 
