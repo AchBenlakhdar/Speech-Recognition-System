@@ -1,6 +1,6 @@
 # Speech-Recognition-System
 
-This project allows you to make a Speech Recognition System using Python. Converting spoken words into text becomes easy with the use of the handful of packages mentioned bellow. I also added some features to the code such as playing songs on Youtube, showing the current date, and performing a Wikipedia Search by vocal commands.
+This project allows you to make a Speech Recognition System using Python. Converting spoken words into text becomes easy with the use of the handful of packages mentioned bellow. I also added some features to the code such as playing songs on Youtube, showing the current date, and performing a Wikipedia Search using vocal commands.
 
 
 Installation:
